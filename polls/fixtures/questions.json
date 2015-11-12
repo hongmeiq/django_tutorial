@@ -1,0 +1,24 @@
+[
+    {
+        "model": "polls.Question",
+        "pk": 1,
+        "fields":{
+            "question_text":"how are you?"
+        }
+    },
+    {
+        "model": "polls.Question",
+        "pk": 2,
+        "fields":{
+            "question_text":"what's up?"
+        }
+    },
+    {
+        "model": "polls.Question",
+        "pk": 3,
+        "fields":{
+            "question_text":"what's your name?"
+        }
+    }
+
+]
